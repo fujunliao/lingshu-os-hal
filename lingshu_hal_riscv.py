@@ -1,4 +1,4 @@
-"""
+""" 
 文件名: lingshu_hal_riscv.py
 项目: 灵枢操作系统 (Lingshu OS)
 职责: 针对进迭时空 K3 (RISC-V) 芯片的硬件对接实现
